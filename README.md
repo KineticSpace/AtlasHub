@@ -1,10 +1,16 @@
 # 🤖 AtlasHub
 ### More than a bot — a full automation hub
 
-![version](https://img.shields.io/badge/version-1.9-blue)
-![node](https://img.shields.io/badge/node-18+-green)
-![license](https://img.shields.io/badge/license-MIT-orange)
-![status](https://img.shields.io/badge/status-stable-brightgreen)
+![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+![Commercial License](https://img.shields.io/badge/Commercial-License%20Available-gold)
+![Version](https://img.shields.io/badge/version-1.9-black)
+![Node](https://img.shields.io/badge/node-%3E=20-green)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![WhatsApp Bot](https://img.shields.io/badge/platform-WhatsApp-25D366)
+![Company](https://img.shields.io/badge/Kinetic-Space%20Inc.-purple)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/AkQenmwgV3)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white)](https://www.whatsapp.com/channel/0029VbCBwNP9RZAXiMPOAe3f)
 
 > All-in-one WhatsApp bot platform — economy, games, moderation, leveling system and web dashboard.
 
