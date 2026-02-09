@@ -149,10 +149,6 @@ El código debe respetar estrictamente la arquitectura existente del proyecto.
 
 ## Comunidad y Contacto
 
-Correo IA: Kinetic.AI@post.com
-
-Correo general: KineticSpaceOfficial@gmail.com
-
 Discord: https://discord.gg/AkQenmwgV3
 
 Canal de WhatsApp: https://www.whatsapp.com/channel/0029VbCBwNP9RZAXiMPOAe3f
@@ -161,7 +157,7 @@ Canal de WhatsApp: https://www.whatsapp.com/channel/0029VbCBwNP9RZAXiMPOAe3f
 
 # Créditos
 
-AtlasHub es un proyecto desarrollado por Kinetic Space Inc.
+AtlasHub es un proyecto desarrollado por Kinexa Inc.
 La edición Open Source (Lite) representa la base pública del ecosistema AtlasHub.
 
 ---
